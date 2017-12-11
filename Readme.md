@@ -19,7 +19,7 @@ and number of files.
 
 ## Samples
 
-Visit the [Sample output page](https://github.com/BrokenMutant/Pro-Filer/out/output2017-12-11%2018%3A49%3A05.787048.html)
+Visit the [Sample output page](https://github.com/BrokenMutant/Pro-Filer/blob/master/out/output2017-12-11%2018:49:05.787048.html)
 
 ## Prerequistics
 * Python 3
